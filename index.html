@@ -26,20 +26,21 @@
             var stage = document.getElementById('stage');//tabuleiro 400x400 pixel(px)
             var ctx = stage.getContext("2d"); //context
 
-            document.addEventListener("keydown", keyPush);
-            setInterval(game, 80);//atualização do game/frame
+            document.addEventListener("keydown", keyPush);//toda vez que pressionar tecla, keypush é executada
+            //VELOCIDADE DA COBRINHA
+            setInterval(game, 80);//atualização do game/frame 
  
             const vel = 1;//velocidade da cobra: quantas casas vai andar
  
             var vx = vy = 0;//velocidades de início
-            var px =10;//ponto x de início: cabeça da cobrinha
+            var px = 10;//ponto x de início: cabeça da cobrinha
             var py = 15;//ponto y de início: cabeça da cobrinha
-            var tp = 30;//tamanho da peço
-            var qp = 20;//quantidade de peças 20
-            var ax=ay=15;//posição inicial
+            var tp = 30;//tamanho da peça
+            var qp = 20;//quantidade de peças 20 do tabuleiro
+            var ax = ay = 15;//posição inicial da maçã
  
             var trail = [];//rastro da cobra
-            tail = 3;//tamanho do rastro da cobra
+            tail = 3;//tamanho do rastro da cobrinha
  
             function game(){
                 px += vx;
@@ -73,7 +74,7 @@
                     if (trail[i].x == px && trail[i].y == py)
                     {
                         vx = vy=0;
-                        tail =5;
+                        tail = 3;
                     }
                 }
  
