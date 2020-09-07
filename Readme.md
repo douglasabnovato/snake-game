@@ -18,7 +18,7 @@ Uma aplicação desktop desenvolvida em Javascript, usando um menu tabs com CSS 
 
 #### Detalhes
 
-- ![Publica](/snake-game-1.jpg)
+![Publica](/snake-game-1.jpg)
 
 :. [Linkedin - @douglasabnovato](https://www.linkedin.com/in/douglasabnovato/)<br/>
 .. de : [Programador BR](https://www.youtube.com/watch?v=Hua1OSXitdQ&list=WL&index=16&t=54s)
