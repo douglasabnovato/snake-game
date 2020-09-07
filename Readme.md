@@ -1,10 +1,19 @@
-Snake Game
-- Jogo da Cobrinha
-- Cobrinha, Maça, Tabuleiro
-- Javascript
-- Menu tabs with CSS and JavaScript
+### Jogo da Cobrinha (snake game)
 
-> publicado : [Jogo da Cobrinha](https://douglasabnovato.github.io/snake-game/)<br/>
-> de : [Programador BR](https://www.youtube.com/watch?v=Hua1OSXitdQ&list=WL&index=16&t=54s)
+#### Objetivo
 
->@douglasabnovato
+O famoso e tradicional jogo da cobrinha.
+Os elementos do jogo são a cobrinha, a maçã e o tabuleiro.
+
+#### Ferramentas / Tecnologias
+
+Uma aplicação desktop desenvolvida em Javascript, usando um menu tabs com CSS e JavaScript.
+
+### Criação: 24 de junho de 2019
+### Atualização: 30 junho de 2020
+### Terminado: Sim 
+### Publicado: [Jogo da Cobrinha](https://douglasabnovato.github.io/snake-game/)
+### Prática : @douglasabnovato
+
+:. [Linkedin - @douglasabnovato](https://www.linkedin.com/in/douglasabnovato/)<br/>
+.. de : [Programador BR](https://www.youtube.com/watch?v=Hua1OSXitdQ&list=WL&index=16&t=54s)
