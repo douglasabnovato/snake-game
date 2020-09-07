@@ -2,12 +2,13 @@
 
 #### Objetivo
 
-O famoso e tradicional jogo da cobrinha.
+O famoso e tradicional jogo da cobrinha.<br/>
 Os elementos do jogo são a cobrinha, a maçã e o tabuleiro.
 
 #### Ferramentas / Tecnologias
 
-Uma aplicação desktop desenvolvida em Javascript, usando um menu tabs com CSS e JavaScript.
+Uma aplicação desktop desenvolvida em Javascript.<br/>
+Usando um menu tabs com CSS e JavaScript.
 
 #### Detalhes
 
